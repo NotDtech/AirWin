@@ -6,36 +6,7 @@ version = 4
 name = "OWDL"
 version = "0.1.0"
 dependencies = [
- "anyhow",
- "async-trait",
- "bincode",
- "byteorder",
  "bytes",
- "chrono",
- "clap",
- "env_logger",
- "futures",
- "hashbrown 0.14.5",
- "indexmap",
- "libc",
- "log",
- "num_cpus",
- "pcap",
- "pnet",
- "rand",
- "rawsock",
- "ring 0.17.14",
- "serde",
- "serde_json",
- "serde_yaml",
- "thiserror 1.0.69",
- "tokio",
- "tokio-util",
- "toml",
- "tracing",
- "tracing-subscriber",
- "uuid",
- "winapi",
 ]
 
 [[package]]
